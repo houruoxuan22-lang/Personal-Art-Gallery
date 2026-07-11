@@ -5,11 +5,12 @@ https://personal-art-gallery.vercel.app
 
 # Personal Art Gallery
 
-A local-first customizable 3D virtual gallery experience.
+Personal Art Gallery is a local-first, web-based 3D virtual gallery project. It allows users to upload their own images, arrange them across gallery walls, and explore the exhibition space through free orbit navigation.
 
-Personal Art Gallery is a web-based 3D gallery app that allows users to upload their own artwork images, arrange them in a virtual exhibition space, customize the gallery atmosphere, edit artwork descriptions, play background music, save gallery configurations, and export clean gallery snapshots.
+The project supports gallery theme switching, wall surface styling, floor material customization, artwork frame styling, editable artwork descriptions, background music playback, gallery configuration save/export/import, and clean PNG snapshot export.
 
-This project was built as a portfolio project to explore how AI-assisted development can be used to create an interactive, user-centered digital exhibition experience.
+Instead of being a simple image viewer, Personal Art Gallery aims to provide a customizable and more curatorial way to present personal visual collections.
+
 
 ---
 
